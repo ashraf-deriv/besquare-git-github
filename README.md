@@ -14,7 +14,7 @@
    - You can do so by going to your terminal and writing the command below:
 
 ```bash
-$ git clone git@github.com:<your_github_username>/Git-and-GitHub-Intro.git
+$ git clone git@github.com:<your_github_username>/besquare-git-github.git.git
 ```
 
 3. **Install dependencies**
