@@ -15,4 +15,4 @@ ncc build \
 ncc build \
     .github/actions/create-teams/create-teams.js \
     --out .very_secret_folder/dist/create-teams \
-    --license licenses.txt \
+    --license licenses.txt
